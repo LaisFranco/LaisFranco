@@ -55,4 +55,8 @@ Conecte-se comigo em outras redes! Se precisar de ajuda, tiver dúvidas ou suges
 <a href="https://discord.gg/lais.oliveira" target="blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </div>
 
+<br>
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
