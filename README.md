@@ -30,7 +30,7 @@ Quando não estou garantindo a qualidade do software, você pode me encontrar:
 ![Cucumber](https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
 ![Capybara](https://img.shields.io/badge/Capybara-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Cypress]<img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg?updated=1667565306852" height="28" width="28" alt="cypress logo"  />
+<img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg?updated=1667565306852" height="28" width="28" alt="cypress logo"  />
 
 #### Bancos de Dados:
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
